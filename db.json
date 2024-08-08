@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "guest",
+      "password": "guest"
+    },
+    {
+      "id": 2,
+      "login": "dima",
+      "password": "martynov"
+    }
+  ],
+  "data": [
+    
+  ]
+}
